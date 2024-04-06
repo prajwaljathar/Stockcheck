@@ -14,7 +14,11 @@ public class New {
      	String dash="class";
 		int u=6;
 		int ut=8;
-		String branch="karan";
+
+		String branchk="karan";
+
+		String branchp="Prajwal";
+
 
 	}
 }
