@@ -11,7 +11,9 @@ public class New {
 		int [] arrfafgy= {1,4,5,9,7,8,10};
 		int [] arrfafgggy= {1,4,5,9,7,8,10};
 		int [] fgargweg= {1,4,5,9,7,8,10};
-		String dash="class";
-			
+     	String dash="class";
+		int u=6;
+
+	
 	}
 }
