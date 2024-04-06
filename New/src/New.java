@@ -18,7 +18,9 @@ public class New {
 		String branchk="karan";
 
 		String branchp="Prajwal";
-		String  branchm="mainJ";
+
+		String  branchm="maing";
+
 		
 
 	}
