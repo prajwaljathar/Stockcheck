@@ -10,6 +10,8 @@ public class New {
 		int [] arrafgy= {1,4,5,9,7,8,10};
 		int [] arrfafgy= {1,4,5,9,7,8,10};
 		int [] arrfafgggy= {1,4,5,9,7,8,10};
+		int [] fgargweg= {1,4,5,9,7,8,10};
+
 		
 		
 	}
