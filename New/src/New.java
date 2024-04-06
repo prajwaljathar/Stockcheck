@@ -13,7 +13,7 @@ public class New {
 		int [] fgargweg= {1,4,5,9,7,8,10};
      	String dash="class";
 		int u=6;
-		int u=8;
-	
+		int ut=8;
+
 	}
 }
